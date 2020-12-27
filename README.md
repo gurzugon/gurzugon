@@ -1,8 +1,5 @@
 <h1 align='center'> Hello 👋, I'm Syahrin  👦💻 </h1>
 
-<p align='center'>
-  I live on Recife, Brazil and work at <b>CESAR</b> 
-</p>
 
 <!-- <p align='center'>
   <a href="#"><img src="https://visitor-badge.glitch.me/badge?page_id=StefanyVasc.StefanyVasc"></a>
