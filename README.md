@@ -1,4 +1,4 @@
-<h1 align='center'> Hello 👋, I'm Syahrin  👦💻 </h1>
+<h1 align='center'> Hello, I'm Syahrin  👋👦</h1>
 
 
 <!-- <p align='center'>
