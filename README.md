@@ -37,13 +37,15 @@ Here are some ideas to get you started:
 
 <h4> 🔭 I’m currently working on ...</h4>
 <p >
-  <img src="https://img.shields.io/badge/html5%20-%23e34f26.svg?&style=for-the-badge&logo=html5&logoColor=white" />&nbsp;&nbsp;<img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" />&nbsp;&nbsp;<img src="https://img.shields.io/badge/jquery%20-%230769ad.svg?&style=for-the-badge&logo=jquery&logoColor=white" />&nbsp;&nbsp;<img src="https://img.shields.io/badge/javascript%20-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=white" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/html5%20-%23e34f26.svg?&style=for-the-badge&logo=html5&logoColor=white" />&nbsp;&nbsp;<img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" />&nbsp;&nbsp;<img src="https://img.shields.io/badge/jquery%20-%230769ad.svg?&style=for-the-badge&logo=jquery&logoColor=white" />&nbsp;&nbsp;<img src="https://img.shields.io/badge/javascript%20-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=white" />&nbsp;&nbsp;  <img src="https://img.shields.io/badge/android%20-%2300979d.svg?&style=for-the-badge&logo=android&logoColor=white" />&nbsp;&nbsp;&nbsp;
 </p>
 
 
 <h5>Educational Projects</h5>
 <p >
-  <img src="https://img.shields.io/badge/scratch%20-%234d97ff.svg?&style=for-the-badge&logo=scratch&logoColor=white" />&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/inkscape%20-%23000000.svg?&style=for-the-badge&logo=inkscape&logoColor=white" />&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/arduino%20-%2300979d.svg?&style=for-the-badge&logo=arduino&logoColor=white" />&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/scratch%20-%234d97ff.svg?&style=for-the-badge&logo=scratch&logoColor=white" />&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/inkscape%20-%23000000.svg?&style=for-the-badge&logo=inkscape&logoColor=white" />&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/android%20-%2300979d.svg?&style=for-the-badge&logo=android&logoColor=white" />&nbsp;&nbsp;&nbsp;
 </p>
 
 <hr>
